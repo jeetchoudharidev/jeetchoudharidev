@@ -157,7 +157,7 @@ Have an interesting project, an open-source idea, or an opportunity to build som
 
 <div align="center">
 
-### ✨ Thanks for stopping by!
+### ✨ Thanks lets connect !!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:0f172a&height=100&section=footer" width="100%" alt="Footer banner" />
 
